@@ -4,9 +4,6 @@
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
-  position: sticky;
-  z-index: -1;
-  bottom: 0;
 
   @include on-tablet {
     height: 480px;
